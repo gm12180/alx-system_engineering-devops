@@ -1,6 +1,6 @@
 total 52
 -rw-r--r-- 1 root root  39 May 30 09:01 *\
-drwxr-xr-x 2 root root 266 May 30 11:43 .
+drwxr-xr-x 2 root root 266 May 30 11:45 .
 drwxr-xr-x 6 root root 104 May 30 07:13 ..
 -rwxr--r-- 1 root root  32 May 30 07:12 0-hello_world
 -rwxr--r-- 1 root root  29 May 30 07:25 1-confused_smiley
@@ -10,9 +10,9 @@ drwxr-xr-x 6 root root 104 May 30 07:13 ..
 -rwxr--r-- 1 root root  29 May 30 08:22 5-firstlines
 -rwxr--r-- 1 root root  40 May 30 10:13 6-third_line
 -rwxr--r-- 1 root root  77 May 30 09:01 7-file
--rwxr--r-- 1 root root  34 May 30 11:43 8-cwd_state
+-rwxr--r-- 1 root root  35 May 30 11:45 8-cwd_state
 -rw-r--r-- 1 root root   0 May 30 07:42 cat
 -rw-r--r-- 1 root root 728 May 30 08:40 iacta
--rw-r--r-- 1 root root   0 May 30 11:45 ls_cwd_content
+-rw-r--r-- 1 root root   0 May 30 11:46 ls_cwd_content
 -rw-r--r-- 1 root root  80 May 30 07:09 README.md
 -rw-r--r-- 1 root root  77 May 30 08:40 tail
